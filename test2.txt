@@ -1,3 +1,8 @@
 Rimon is here.
+<<<<<<< HEAD
 I am always fun. so all is well.
 I will started new technology 1st september.
+=======
+I am always fun. so all is well
+this is rimon hossain change
+>>>>>>> e433b8e5abdd1bec2d78f25ae9b1ed572005decb
